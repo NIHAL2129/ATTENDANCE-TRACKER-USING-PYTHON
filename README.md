@@ -4,8 +4,8 @@ If he/she takes further leave, both the student and the corresponding staff rece
 The only thing to do is just enter the subject code and roll number of the student absent from the class and the rest will be taken care of by this tracker system.
 
 *Dataset included in Excel sheet (Eg:attendance.xlsx):
-Roll number
-Student mail ID
+Roll number,
+Student mail ID,
 Name of Subject
 
 *Points to remember before executing:
